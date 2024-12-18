@@ -42,7 +42,7 @@ The **File Sharing App Backend** is built with **Node.js** and **Express.js** to
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/file-sharing-app-backend.git
+   git clone https://github.com/jayeshgavale02/File-Sharing-App-Backend.git
    cd file-sharing-app-backend
    
 2. Create a .env file in the root directory with the following contents:
