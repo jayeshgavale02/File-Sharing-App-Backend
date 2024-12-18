@@ -45,13 +45,13 @@ The **File Sharing App Backend** is built with **Node.js** and **Express.js** to
    git clone https://github.com/yourusername/file-sharing-app-backend.git
    cd file-sharing-app-backend
    
-2.Create a .env file in the root directory with the following contents:
-  ```bash
+2. Create a .env file in the root directory with the following contents:
+   ```bash
    PORT=5000
    MONGO_URI=mongodb://localhost:27017/file-sharing-app
    JWT_SECRET=your_secret_key
 
-4.Start the server:
+4. Start the server:
    ```bash
     node server.js
 
